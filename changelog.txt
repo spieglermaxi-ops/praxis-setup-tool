@@ -1,5 +1,5 @@
 1.1.2
 - Dark Mode hinzugefügt
-- Toast-Benachrichtigungen statt MessageBox
-- Start-Tab mit Copyright
-- Auto-Updater eingebaut
+- Toast-Benachrichtigungen
+- Start-Tab
+- Druck-Tab 
