@@ -1,5 +1,4 @@
-1.1.2
-- Dark Mode hinzugefügt
-- Toast-Benachrichtigungen
-- Start-Tab
-- Druck-Tab 
+1.1.3
+- Laufwerk-Tab verbessert 
+- Ließt Datenträger schneller aus
+- Netzwerk-Tab Neu hinzugefügt
