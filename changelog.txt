@@ -1,3 +1,9 @@
+1.1.4
+- PIN Eingabe verbessert
+- Aktionen Button überarbeitet
+- Feedback-Dialog neu gestaltet
+- Startseite: Kacheln sind jetzt klickbar
+
 1.1.3
 - Laufwerk-Tab verbessert 
 - Liest Datenträger schneller aus
