@@ -8,3 +8,4 @@
 - Laufwerk-Tab verbessert 
 - Liest Datenträger schneller aus
 - Netzwerk-Tab neu hinzugefügt
+- Darkmode verbessert
