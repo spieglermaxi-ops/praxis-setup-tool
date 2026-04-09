@@ -3,7 +3,8 @@
 - Aktionen Button überarbeitet
 - Feedback-Dialog neu gestaltet
 - Startseite: Kacheln sind jetzt klickbar
-
+- Viele Visuelle Verbesserungen
+- Grundkonfig Button verbessert
 1.1.3
 - Laufwerk-Tab verbessert 
 - Liest Datenträger schneller aus
