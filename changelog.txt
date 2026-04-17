@@ -1,3 +1,7 @@
+1.1.5
+- Einstellungen-Button hinzugefügt
+- Startseite: Tab-Navigation repariert
+- GrundkonfigDialog: 4K-Skalierung repariert
 1.1.4
 - PIN Eingabe verbessert
 - Aktionen Button überarbeitet
