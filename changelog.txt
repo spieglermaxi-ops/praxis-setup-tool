@@ -1,3 +1,10 @@
+1.2.0 – 19.04.2026
+- Server-Modus hinzugefügt (Windows Server 2025)
+- OS-Auswahl beim Start mit Wechselmöglichkeit
+- Server-VM Tab mit allen Einrichtungsfunktionen
+- VHDX-Ersteller mit Vorlagen (Nur DC, Nur WTS, Beide VMs)
+- Neues App-Icon (Pulse Monitor)
+- Programme installieren: Startseite-Logik überarbeitet
 1.1.5
 - Einstellungen-Button hinzugefügt
 - Startseite: Tab-Navigation repariert
